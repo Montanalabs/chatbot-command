@@ -1,0 +1,7 @@
+name = "chatbot-command"
+version = "0.1.0"
+description = "Chatbot command parser"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]

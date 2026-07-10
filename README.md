@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `chatbot-command_safe.os` — the correct design.
-- `chatbot-command_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `chatbot-command_safe.wave` — the correct design.
+- `chatbot-command_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
